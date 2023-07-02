@@ -6,7 +6,6 @@ This repository contains the implementation for the assignment content of the Se
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Installation](#installation)
 
 ## Introduction
 
@@ -29,9 +28,6 @@ To run the code in this repository, you need the following requirements:
 - [Node.js](https://nodejs.org) installed on your machine
 - A web browser to run the client-side application
 
-## Installation
-
-To install and set up the project, follow these steps:
 
 
 
