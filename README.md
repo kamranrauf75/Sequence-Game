@@ -15,16 +15,15 @@ This repository contains the implementation for the assignment content of the Se
 
 Welcome to the Sequence Board Game implementation! This project is a multiplayer game based on the popular board game called Sequence. It is implemented using React, a JavaScript library for building user interfaces.
 
-In this game, four players participate, with two players forming a team. The objective of the game is to create a sequence of five chips in a row, either horizontally, vertically, or diagonally, on the game board. However, note that the rules of the original Sequence game have been simplified for the purpose of this assignment.
+In this game, four players participate, with two players forming a team. The objective of the game is to create a sequence of five chips in a row, either horizontally, vertically, or diagonally, on the game board.
 
 The implementation includes the following features:
 
-Dynamic generation of the game board using React components.
-WebSockets for real-time communication between the server and clients.
-Distribution of six random cards to each player from a predefined deck.
-Interactive gameplay where players can select a card on the board, valid moves are validated, and updates are sent to the server.
-Display of player turn and notifications for invalid moves, winning conditions, and draws.
-Please refer to the assignment description for detailed rules and functionality requirements.
+1. Dynamic generation of the game board using React components.
+2. WebSockets for real-time communication between the server and clients.
+3. Distribution of six random cards to each player from a predefined deck.
+4. Interactive gameplay where players can select a card on the board, valid moves are validated, and updates are sent to the server.
+5. Display of player turn and notifications for invalid moves, winning conditions, and draws.
 
 ## Requirements
 
